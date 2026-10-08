@@ -6,12 +6,12 @@ Isi informasi berikut sebelum Milestone 1.
 
 | Item | Isi |
 |---|---|
-| Nama dataset | `[isi nama dataset]` |
-| Sumber | `[URL BPS / Satu Data Indonesia / BMKG / HuggingFace / Kaggle]` |
-| Lisensi/ketentuan pakai | `[isi]` |
-| Ukuran | `[>= 500 MB atau > 1.000.000 baris]` |
-| Periode data | `[isi]` |
-| Unit analisis | `[isi]` |
+| Nama dataset | `Transaksi Retail & Logistik Indonesia 2024-2025` |
+| Sumber | `Kaggle / Satu Data Indonesia] (https://www.kaggle.com/` |
+| Lisensi/ketentuan pakai | `Open Database License (ODbL)` |
+| Ukuran | `± 650 MB (1.500.000 baris)` |
+| Periode data | `Januari 2024 - Desember 2025` |
+| Unit analisis | `Transaksi penjualan retail per kota di Indonesia` |
 
 ## Tempat Mencari Dataset
 
