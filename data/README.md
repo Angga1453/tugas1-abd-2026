@@ -6,12 +6,12 @@ Isi informasi berikut sebelum Milestone 1.
 
 | Item | Isi |
 |---|---|
-| Nama dataset | `[isi nama dataset]` |
-| Sumber | `[URL BPS / Satu Data Indonesia / BMKG / HuggingFace / Kaggle]` |
-| Lisensi/ketentuan pakai | `[isi]` |
-| Ukuran | `[>= 500 MB atau > 1.000.000 baris]` |
-| Periode data | `[isi]` |
-| Unit analisis | `[isi]` |
+| Nama dataset | `[EmoTweetID — Indonesian Emotion Tweet Dataset]` |
+| Sumber | `[Mendeley Data – EmoTweetID/https://data.mendeley.com/datasets/jzgnjsff9f/5]` |
+| Lisensi/ketentuan pakai | `[CC BY 4.0 (Creative Commons Attribution 4.0 International)]` |
+| Ukuran | `[Sekitar 208 MB, dengan 3.126.987 baris tweet pada file EmoTweetID-Corpus.csv]` |
+| Periode data | `[Tidak diketahui/tidak tercantum secara jelas pada file korpus yang digunakan]` |
+| Unit analisis | `[Satu tweet berbahasa Indonesia]` |
 
 ## Tempat Mencari Dataset
 
